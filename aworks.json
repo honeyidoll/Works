@@ -2,17 +2,17 @@
   "works": [
     {
       "title": "The Aesthetic Logic of Digital Memory",
-      "file": "paper1.pdf",
+      "file": "paper1.html",
       "description": "A short exploration of how digital archives shape emotional recall and identity."
     },
     {
       "title": "Ritual Systems in Online Identity",
-      "file": "paper2.pdf",
+      "file": "paper2.html",
       "description": "A study on how repeated digital behaviors become rituals that define selfhood."
     },
     {
       "title": "Thesis: Chapter 1 — Mythic Computation",
-      "file": "thesis-chapter1.pdf",
+      "file": "thesis-chapter1.html",
       "description": "An introduction to the idea that computation can be framed as myth-making."
     }
   ]
